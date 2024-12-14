@@ -1,7 +1,6 @@
 # Day 1
 ## Today's learning
-- Git
-- Markdown file `.md`
+- Git Markdown file `.md`
 
 # Git learning
 ## - `git init` 
@@ -34,10 +33,10 @@
         Example: git add deletedfile.txt
 
 ## - `git commit`
-    - The git commit command is used to save changes made to files in your local Git repository. It's a critical step in version control, as it creates a snapshot of your current project state that you can refer back to later. Each commit records a set of changes, along with a message that describes what was done, and is identified by a unique hash.
+- The git commit command is used to save changes made to files in your local Git repository. It's a critical step in version control, as it creates a snapshot of your current project state that you can refer back to later. Each commit records a set of changes, along with a message that describes what was done, and is identified by a unique hash.
 
 ## - `git remote add orgin <url>`
-    - to connect to the local repository to github repository.
+- to connect to the local repository to github repository.
 
 ## - `git push`
-    - it pushes the local changes/commit to the github repository.(in cloud).
+- it pushes the local changes/commit to the github repository.(in cloud).
